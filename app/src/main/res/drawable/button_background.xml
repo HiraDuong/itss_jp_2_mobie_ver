@@ -1,0 +1,12 @@
+<!-- Định nghĩa một drawable shape cho Button -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Thiết lập góc cong (radius) cho các cạnh của Button -->
+    <corners android:radius="20dp" />
+    <!-- Thiết lập màu nền cho Button -->
+    <solid android:color="#FF4081" />
+    <!-- Thiết lập đường viền cho Button (nếu cần) -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />
+</shape>

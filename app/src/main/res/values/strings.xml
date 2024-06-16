@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">̣ITSS</string>
+    <string name="header">TRẠNG THÁI BÃI ĐỖ XE</string>
+    <string name="D9">D9</string>
+    <string name="D3">D3</string>
+    <string name="C7">C7</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="col1">Bãi đỗ xe</string>
+    <string name="col2">Trạng thái</string>
+    <string name="status1">không tắc</string>
+    <string name="status2">có thể tắc</string>
+    <string name="status3">đang tắc</string>
+</resources>
